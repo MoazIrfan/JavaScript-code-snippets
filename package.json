@@ -1,0 +1,35 @@
+{
+ "name": "javascript-code-snippets",
+ "displayName": "JavaScript code snippets",
+ "description": "JavaScript (ES6) code snippets",
+ "version": "0.1.0",
+ "publisher": "moazirfan",
+ "license": "MIT",
+
+ "engines": {
+    "vscode": "^1.44.0"
+ },
+ "categories": [
+    "Snippets"
+ ],
+ "contributes": {
+    "snippets": [
+        {
+            "language": "javascript",
+            "path": "./snippets/snippets.json"
+        },
+        {
+            "language": "typescript",
+            "path": "./snippets/snippets.json"
+        },
+        {
+            "language": "javascriptreact",
+            "path": "./snippets/snippets.json"
+        },
+        {
+            "language": "typescriptreact",
+            "path": "./snippets/snippets.json"
+        }
+    ]
+ }
+}
