@@ -4,8 +4,12 @@
  "description": "JavaScript (ES6) code snippets",
  "version": "0.1.0",
  "publisher": "moazirfan",
+ "icon": "images/logo.png",
  "license": "MIT",
-
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/MoazIrfan/JavaScript-code-snippets"
+ },
  "engines": {
     "vscode": "^1.44.0"
  },
