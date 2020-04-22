@@ -2,6 +2,8 @@
 
 This extension contains code snippets for JavaScript in ES6 syntax.
 
+Install from VSCode Extension Marketplace [JavaScript code snippets](https://marketplace.visualstudio.com/items?itemName=MoazIrfan.javascript-code-snippets)
+
 ## Snippets
 
 Type Less & Do More with super easy triggers of code snippets.
