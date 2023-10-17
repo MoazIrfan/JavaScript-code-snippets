@@ -1,7 +1,6 @@
 # JavaScript Snippets for VS Code
 
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/MoazIrfan.javascript-code-snippets?label=Downloads&colorA=2D2A56&colorB=4D2AFF)][sop]
-[![installs](https://img.shields.io/visual-studio-marketplace/i/MoazIrfan.javascript-code-snippets?label=Installs&colorA=2D2A56&colorB=4D2AFF)][sop]
+![installs](https://img.shields.io/visual-studio-marketplace/i/MoazIrfan.javascript-code-snippets?label=Installs&colorA=2D2A56&colorB=3081f7)
 
 This extension contains code snippets for JavaScript in ES6 syntax.
 
